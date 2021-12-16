@@ -1,6 +1,6 @@
 ### Hi there, I am Dan! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
 
-I'm a Full-stack Web Developer 
+I'm a Full-stack Developer 
 
 **About me**
 
