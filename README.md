@@ -4,7 +4,7 @@ I'm a Node.js Backend Developer
 
 **About me**
 
-Currently, I work at DeSmart.
+Currently, I work at Honeywell.
 
 <br/>
 
